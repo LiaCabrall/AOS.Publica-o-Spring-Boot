@@ -1,2 +1,0 @@
-*{box-sizing:border-box;margin:0;padding:0}.cards-services{display:flex;flex-wrap:wrap;gap:32px;justify-content:center;margin:24px}.card-container{border-radius:10px;flex:1 1;height:469px;overflow:hidden;position:relative;width:328px}.card-image img{height:469px;object-fit:cover;width:324px}.card-container:hover .card-image img{filter:brightness(50%)}.card-content{color:#fff;font-family:Inter;font-size:24px;font-weight:700;line-height:50px;margin-left:16px;position:absolute;top:24px;z-index:2}
-/*# sourceMappingURL=main.336e574a.css.map*/
